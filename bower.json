@@ -24,7 +24,7 @@
   "dependencies": {
     "polymer": "Polymer/polymer#^1.0.0",
     "web3": "^0.15.2",
-    "eth-lightwallet": "https://github.com/BlockTube/eth-lightwallet.git#^2.4.1",
+    "eth-lightwallet": "https://github.com/BlockTube/eth-lightwallet.git",
     "hooked-web3-provider": "https://github.com/ConsenSys/hooked-web3-provider.git",
     "iron-localstorage": "PolymerElements/iron-localstorage#^1.0.5"
   },
